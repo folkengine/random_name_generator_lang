@@ -1,6 +1,7 @@
 # random_name_generator_lang
 
-Common Language Files for Random Name Generator Libraries
+Common Language Files for
+[Random Name Generator Libraries](https://github.com/folkengine/RandomNameGeneratorHub).
 
 Includes
 
@@ -20,3 +21,4 @@ in Latin characters and Cyrillic.
 
 * Mirco - One syllable
 * Tiny - A few examples of each syllable type
+
